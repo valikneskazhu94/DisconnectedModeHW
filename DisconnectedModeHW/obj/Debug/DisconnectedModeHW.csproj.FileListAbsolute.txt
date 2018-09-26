@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\bin\Debug\DisconnectedModeHW.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\bin\Debug\DisconnectedModeHW.exe
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\bin\Debug\DisconnectedModeHW.pdb
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.exe
+c:\users\mak\documents\visual studio 2017\Projects\DisconnectedModeHW\DisconnectedModeHW\obj\Debug\DisconnectedModeHW.pdb
